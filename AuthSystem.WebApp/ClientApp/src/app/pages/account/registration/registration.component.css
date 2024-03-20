@@ -1,0 +1,21 @@
+.stepper {
+  width: 600px;
+  margin: 0 auto;
+}
+.mat-checkbox {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.step-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mat-checkbox.ng-invalid {
+  color: #f44336;
+}
+
+
+.full-width {
+  width: 100%;
+}
